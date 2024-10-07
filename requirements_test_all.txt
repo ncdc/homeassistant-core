@@ -483,6 +483,9 @@ axis==62
 # homeassistant.components.fujitsu_fglair
 ayla-iot-unofficial==1.4.1
 
+# homeassistant.components.thegoldsteins
+ayla_iot_unofficial==1.4.1
+
 # homeassistant.components.azure_event_hub
 azure-eventhub==5.11.1
 

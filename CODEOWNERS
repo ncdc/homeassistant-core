@@ -1486,6 +1486,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/text/ @home-assistant/core
 /tests/components/text/ @home-assistant/core
 /homeassistant/components/tfiac/ @fredrike @mellado
+/homeassistant/components/thegoldsteins/ @ncdc
+/tests/components/thegoldsteins/ @ncdc
 /homeassistant/components/thermobeacon/ @bdraco
 /tests/components/thermobeacon/ @bdraco
 /homeassistant/components/thermopro/ @bdraco @h3ss
